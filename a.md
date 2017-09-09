@@ -1,12 +1,12 @@
-#This is the main title
+# This is the main title
 
 
-###C++ Code Example
+### C++ Code Example
 
--This is **Hello World** *C++ code*
+- This is **Hello World** *C++ code*
 
 ```
-#include <iostream>
+# include <iostream>
 
 using namespace std;
 
@@ -16,6 +16,6 @@ int main(){
 }
 ```
 
-###Python Code Example
+### Python Code Example
 
 -This is **Hello World** *Python code*
