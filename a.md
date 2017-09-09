@@ -24,7 +24,7 @@
 `$ git push origin master`
 
 - Connect Local File with GitHub Remote Project
-`$ git remote add origin git@github.com:stormzhang/test.git`
+`$ git remote add origin git@github.com:JunJunCheng/test.git`
 
 - Push Connected Project
 `$ git push origin master`
