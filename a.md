@@ -18,4 +18,4 @@ int main(){
 
 ### Python Code Example
 
--This is **Hello World** *Python code*
+- This is **Hello World** *Python code*
