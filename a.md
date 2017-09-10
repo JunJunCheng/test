@@ -8,7 +8,10 @@
 `$ git status`
 
 - Check Branch
-`$ git brach`
+`$ git branch`
+
+- Create New Branch & Checkout
+`$ git checkout -b branchName`
 
 - Add File
 `$ git add filename.type`
