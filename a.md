@@ -34,6 +34,19 @@
 - Push Connected Project
 `$ git push origin master`
 
+- Delete Local GitHub Branch
+```
+$ git branch -d branchName
+# Force Delete
+$ git branch -D branchName
+```
+
+- Delete Remote Branch
+`$ git push origin:branchname`
+
+- Clone Remote Git Branch to Local and Checkout
+`$ git checkout Branch origin/Branch`
+
 ### C++ Code Example
 
 - This is **Hello World** *C++ code*
