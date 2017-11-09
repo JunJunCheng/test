@@ -1,7 +1,7 @@
 # Catalog 2
 ## Inventory Management System
 #### Target Business
->"Gamer's Zone" is the biggest computer hardware dealer for gamers in China. It sells products mainly on PC peripherals, computer parts and assembled computer for all gamers in China. The company has 5 warehouse in China, which are located in Beijing, Shanghai, Guangzhou, Chengdu and Xi An to cover all the region 
+>"Gamer's Zone" is the biggest computer hardware dealer for gamers in China. It sells products mainly on PC peripherals, computer parts and assembled computer for all gamers in China. The company has 5 warehouse in China, which are located in Beijing, Shanghai, Guangzhou, Chengdu and Xi An to cover all the regions in China. The company has about 100 employees who work as Computer assembly worker, Warehouse admin, Receptions and Manager. Every year, the company sells over twenty thousand computers and 40 thousand of game accessories.
 
 #### Business Operation Cycle
 >- 采购员在<font color=red>**需要**</font>时下单买货
