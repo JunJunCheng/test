@@ -23,7 +23,23 @@
 >- Finish the task and inform warehouse admin
 
 #### Problems
-??
+> <strong>Manager</strong> 
+>- 
+>- 
+>- 
+
+> <strong>Reception</strong> 
+>- 
+>- 
+
+> <strong>Warehouse Admin</strong> 
+>- 
+>- 
+>- 
+
+> <strong>Assembly Worker</strong> 
+>- 
+>- 
 
 #### Ideal
 ??
