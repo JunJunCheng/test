@@ -19,8 +19,8 @@
 >- Quality inspection for purchased pruducts, register new product information and update stock information 
 
 > <strong>Assembly Worker</strong> 
->- Check assembly and package task, find item position.
->- Finish the task and inform warehouse admin.
+>- Check assembly and package task, find item position
+>- Finish the task and inform warehouse admin
 
 #### Problems
 ??
