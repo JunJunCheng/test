@@ -4,11 +4,23 @@
 >"Gamer's Zone" is the biggest computer hardware dealer for gamers in China. It sells products mainly on PC peripherals, computer parts and assembled computer for all gamers in China. The company has five warehouses in China, which are located in Beijing, Shanghai, Guangzhou, Chengdu and Xi An to cover all the regions. The company has about 100 employees who work as Computer assembly worker, Warehouse admin, Receptions and Manager. Every year, the company sells over twenty thousand computers and forty thousand of game accessories. The purchase on stock is done on a monthly basis.
 
 #### Business Operation Cycle
->- 采购员在<font color=red>**需要**</font>时下单买货
->- 库存管理员在物品到货时更新库存信息并分配给各个小供应商
->- 各地区小manager更新销售记录
->- ？如果库存不够如何调
->- manager根据市场需求，搜索trend，产品过时情况, 销售记录，特殊情况(吃鸡火了)，成本(各种成本)计算来预测，决定销售策略，库存数量，下达采购指示或清理库存指示
+> <strong>Manager</strong> 
+>- Make decision on the stock number, purchase quantities and outdated product clearance
+>- Decide the stock distribution for all the warhouse and local store
+>- Evaluate the accuracy of the prediction and make modifications
+
+> <strong>Reception</strong> 
+>- Search stock information and key in order info after receiving orders
+>- Complete small order using local storage
+
+> <strong>Warehouse Admin</strong> 
+>- Lookup items and assign tasks to warehouse works to assembly, package and deliver
+>- Update stock information after finishing the order
+>- Quality inspection for purchased pruducts, register new product information and update stock information 
+
+> <strong>Assembly Worker</strong> 
+>- Check assembly and package task, find item position.
+>- Finish the task and inform warehouse admin.
 
 #### Problems
 ??
