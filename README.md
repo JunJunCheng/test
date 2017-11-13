@@ -10,7 +10,7 @@
 >- Evaluate the accuracy of the prediction and make modifications
 
 > <strong>Reception</strong> 
->- Search stock information and key in order info after receiving orders
+>- Search stock information and key in order info after receiving orders (bulk order/small order)
 >- Complete small order using local storage
 
 > <strong>Warehouse Admin</strong> 
@@ -29,10 +29,12 @@
 >- Time consuming for manager to track and predict the stock for all products
 >- Sales report needs to be generated manually every month
 >- It is difficult for manager to make distribution requirements planning without sufficient data
+>- High possibility for out-of-stock/overstock problem without good planning on stock quantity and distribution requirements
 
 > <strong>Reception</strong> 
 >- It is hard for reception to transfer the order inforamtion to the warehouse admin without task management
 >- It is hard for reception to find the position for each production in the order
+>- It is time consuming for reception to store and update the stock when products come
 
 > <strong>Warehouse Admin</strong> 
 >- It is hard for warehouse admin to find the items in a huge warehouse
